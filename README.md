@@ -36,7 +36,6 @@ Optical saturation is reached at thicknesses of roughly 350–546 µm, depending
 ```
 notebooks/   one notebook per material (PET, PDMS, PEI)
 data/        optical constants and atmospheric transmittance
-figures/     final figures (PDF/PNG)
 ```
 
 ## Requirements
