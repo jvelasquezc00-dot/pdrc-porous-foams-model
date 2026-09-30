@@ -64,10 +64,9 @@ Thesis advisors: Dr. Eugenio Méndez and Dr. Alma González Alcalde (CICESE).
 
 ## Author
 
-José Alejandro Velásquez Castaño — Physicist, MSc in Optics
+   José Alejandro Velásquez Castaño — Physicist, MSc in Optics
 
-jvelasquezc00@gmail.com
-
+   jvelasquezc00@gmail.com
 ## License
 
 MIT — see [LICENSE](LICENSE).
